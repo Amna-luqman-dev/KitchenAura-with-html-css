@@ -14,4 +14,4 @@ Styled with CSS and enhanced with Font Awesome icons
 
 Easy to extend and customize
 
-🔗 Live Demo: KitchenAura Website
+🔗 Live Demo: [KitchenAura Website](https://amna-luqman-dev.github.io/KitchenAura-with-html-css/)
