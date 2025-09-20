@@ -1,0 +1,45 @@
+.footer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  list-style: none;
+  padding: 40px 0;
+  background-color: black;
+  text-align: center;
+}
+
+.footer h2 {
+  color: white;
+}
+
+.footer li a {
+  text-decoration: none;
+  color: whitesmoke;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.links li {
+  padding: 5px;
+}
+
+.services li {
+  padding: 5px;
+}
+
+.media li {
+  padding: 5px;
+}
+
+.contact-us li {
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+}
+
+#new-gallery {
+  scroll-margin-top: 110px;
+}
+
+#contact {
+  scroll-margin-top: 130px;
+}

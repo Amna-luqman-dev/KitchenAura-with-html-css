@@ -1,0 +1,39 @@
+html {
+  scroll-behavior: smooth; 
+  /* smooth scroll */
+}
+
+.navbar {
+  display: flex;
+  padding: 15px 50px;
+  width: 100%;
+  justify-content: space-between;
+  background-color: black;
+  color: aliceblue;
+  position: fixed;
+  align-items: center;
+}
+
+.logo {
+  font-size: 30px;
+}
+
+.nav-link {
+  display: flex;
+  list-style: none;
+  font-size: 20px;
+}
+
+.navbar li {
+  margin-right: 50px;
+}
+
+.nav-link li a {
+  text-decoration: none;
+  color: whitesmoke;
+  cursor: pointer;
+}
+
+#gallery{
+  scroll-margin-top: 80px;
+}

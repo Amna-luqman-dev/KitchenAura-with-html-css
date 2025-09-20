@@ -1,0 +1,21 @@
+.gallery-section{
+  margin-bottom: 50px;
+}
+.heading0 {
+  margin-top: 50px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.img-box img {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  margin: 40px 0 0 40px;
+}
